@@ -1,0 +1,10 @@
+{
+  "name": "Kommunicate Live Chat",
+  "private": false,
+  "location": {
+    "chat": {
+    }
+  },
+  "marketingOnly": true,
+  "version": "1.0.0"
+}
