@@ -1,8 +1,8 @@
-# Kommunicate Live Chat
+# Kommunicate AI Chatbot
 
 Human + Bot Hybrid Customer Support Software
 
-### Kommunicate Live Chat & Chatbots
+### Kommunicate AI Chatbot & Chatbots
 
 * Kommunicate lets you add Live Chat and Chatbots to your Shopify store.
 * Provide 24/7 customer support and increase your sales.
