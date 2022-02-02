@@ -1,8 +1,8 @@
 {
   "app": {
     "name": "Kommunicate AI Chatbot",
-    "short_description": "Human + Bot Hybrid Customer Support Software",
     "long_description": "Test",
     "installation_instructions": "Simply click install."
+    "short_description": "The most complete chatbot ever",
   }
 }
