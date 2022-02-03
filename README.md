@@ -27,6 +27,6 @@ Please submit bug reports to [Our Github Repo](https://github.com/Kommunicate-io
 
 ### Screenshot(s):
 
+![screenshot-0](/assets/screenshot-0.png)
 ![screenshot-1](/assets/screenshot-1.png)
 ![screenshot-2](/assets/screenshot-2.png)
-![screenshot-3](/assets/screenshot-3.png)
